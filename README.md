@@ -25,10 +25,10 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 
 # Usage
 
-Place your video file in the project directory and replace the `video = cv2.VideoCapture('Your_Video_File.mp4')` line in the code with the name of your video file.
-Run the script: `python proximity_alert.py`
-The script will process the video and display a window with the detected objects and proximity alerts.
-Press q to quit the video.
+- Place your video file in the project directory and replace the `video = cv2.VideoCapture('Your_Video_File.mp4')` line in the code with the name of your     video file.
+- Run the script: `python proximity_alert.py`
+- The script will process the video and display a window with the detected objects and proximity alerts.
+- Press q to quit the video.
 
 # Contribute
 
