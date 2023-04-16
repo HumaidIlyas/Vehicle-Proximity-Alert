@@ -30,6 +30,33 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 - The script will process the video and display a window with the detected objects and proximity alerts.
 - Press q to quit the video.
 
+# Usage with Webcam
+  You can also use this project with a webcam, including your mobile phone's camera mounted on your car dashboard. One way to achieve this is by using a     third-party app like "Iriun Webcam."
+  
+## Setting up Iriun Webcam
+
+### Download and install the "Iriun Webcam" app on your mobile phone:
+- Android
+- iOS
+
+### Install the Iriun Webcam software on your computer:
+- Windows
+- macOS
+- Ubuntu
+
+## Connect your mobile phone and computer to the same Wi-Fi network.
+- Launch the Iriun Webcam app on your mobile phone and start the Iriun Webcam software on your computer. Your computer should automatically detect your       mobile phone's camera as a webcam.
+- Running the Proximity Alert System with Webcam
+- To use the script with your webcam or Iriun Webcam, follow these steps:
+  In the script, replace the line: `video = cv2.VideoCapture('Beat_white.mp4')`
+  with:
+  `video = cv2.VideoCapture(0)`
+- Change the index 0 to the appropriate index of your webcam if necessary (e.g., 1, 2, etc.).
+- To stop outputting the video, comment out or remove the following line: `output_video.write(frame)`
+- Run the script, and the Proximity Alert System should work with your webcam or mobile phone camera mounted on your car dashboard.
+- Remember that the performance of the system may depend on the quality of your mobile phone camera, the clarity of the video feed, and the stability of     the Wi-Fi connection between your phone and computer.
+
+
 # Contribute
 
 Feel free to open issues or submit pull requests to contribute to the project. We appreciate your help in improving Vehicle-Proximity-Alert!
