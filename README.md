@@ -19,7 +19,7 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 
 # Installation
 
-Clone the repository: <bash git clone https://github.com/HumaidIlyas/Vehicle-Proximity-Alert.git>
+Clone the repository: < bash git clone https://github.com/HumaidIlyas/Vehicle-Proximity-Alert.git >
 
 Install the required dependencies: pip install opencv-python opencv-python-headless numpy beepy
 
