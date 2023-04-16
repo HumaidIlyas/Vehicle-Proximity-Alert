@@ -56,6 +56,10 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 - Run the script, and the Proximity Alert System should work with your webcam or mobile phone camera mounted on your car dashboard.
 - Remember that the performance of the system may depend on the quality of your mobile phone camera, the clarity of the video feed, and the stability of     the Wi-Fi connection between your phone and computer.
 
+![WhatsApp Image 2023-04-16 at 16 24 31](https://user-images.githubusercontent.com/40148304/232302652-93e8e6a6-3dff-48c2-aa68-b3b545c2549a.jpeg)
+
+![WhatsApp Image 2023-04-16 at 16 26 18](https://user-images.githubusercontent.com/40148304/232302675-a998c8c2-4474-45dd-9871-6cf2988eb530.jpeg)
+
 
 # Contribute
 
