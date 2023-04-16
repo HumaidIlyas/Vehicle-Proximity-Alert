@@ -4,18 +4,18 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 
 # Features
 
-Real-time object detection using YOLOv4-tiny
-Detects cars, bicycles, motorbikes, and persons
-Displays a visual warning when objects are too close
-Plays an audio alert when objects are in high proximity
-Works with video input (e.g., a dashcam)
+- Real-time object detection using YOLOv4-tiny
+- Detects cars, bicycles, motorbikes, and persons
+- Displays a visual warning when objects are too close
+- Plays an audio alert when objects are in high proximity
+- Works with video input (e.g., a dashcam)
 
 # Prerequisites
 
-Python 3.6 or higher
-OpenCV
-Numpy
-Beepy
+- Python 3.6 or higher
+- OpenCV
+- Numpy
+- Beepy
 
 # Installation
 
