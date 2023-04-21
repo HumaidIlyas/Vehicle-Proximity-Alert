@@ -36,13 +36,13 @@ Vehicle-Proximity-Alert is a real-time proximity alert system that detects vehic
 ## Setting up Iriun Webcam
 
 ### Download and install the "Iriun Webcam" app on your mobile phone:
-- [Android](https://play.google.com/store/apps/details?id=com.iriun.webcam)
+- [Android](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - [iOS](https://apps.apple.com/us/app/iriun-webcam/id1468908191)
 
 ### Install the Iriun Webcam software on your computer:
-- [Windows](https://iriun.com/iriunwebcam.exe)
-- [macOS](https://iriun.com/iriunwebcam.dmg)
-- [Ubuntu](https://iriun.com/iriunwebcam.deb)
+- [Windows](https://1758658189.rsc.cdn77.org/IriunWebcam-2.7.8.exe)
+- [macOS](https://1758658189.rsc.cdn77.org/IriunWebcam-2.8.3.pkg)
+- [Ubuntu](https://iriun.gitlab.io/iriunwebcam-2.8.deb)
 
 ## Connect your mobile phone and computer to the same Wi-Fi network.
 - Launch the Iriun Webcam app on your mobile phone and start the Iriun Webcam software on your computer. Your computer should automatically detect your       mobile phone's camera as a webcam.
